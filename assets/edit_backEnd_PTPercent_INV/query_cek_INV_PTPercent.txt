@@ -1,0 +1,5 @@
+SELECT id.*, im.INVDate, im.PaymentTerm, 
+sd.PricePercent, sd.PromoPercent, sd.PTPercent, sd.PriceAmount
+FROM tb_invoice_detail id
+LEFT JOIN tb_invoice_main im ON id.INVID=im.INVID
+LEFT JOIN tb_so_detail sd ON im.SOID= sd.SOID AND id.SalesOrderDetailID=sd.SalesOrderDetailID AND id.ProductID=sd.ProductID

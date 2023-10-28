@@ -1,0 +1,1313 @@
+# Webalizer V2.23-08 Incremental Data - 06/25/2020 00:13:57
+2020 6 25 0 13 57
+14215 13307 124 245 123 44 162019969 10636 292 0 0 0
+1 1 1903 22 25
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+363 235 3729453 11 233 8 0 0
+6132 5759 66588179 78 4525 120 0 0
+7719 7312 91697019 42 5877 163 0 0
+1 1 5318 1 1 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 5318 1 0 0
+833 756 10437500 588 0 0
+2641 2431 37863923 1595 0 0
+2223 2134 23316552 1724 0 0
+1201 1102 8897175 985 0 0
+1155 1095 10057876 910 0 0
+958 927 10520618 749 0 0
+650 627 8456505 486 0 0
+861 804 8882821 738 0 0
+398 385 5376669 299 0 0
+109 91 797990 100 0 0
+11 11 156451 1 0 0
+13 11 149113 3 0 0
+912 826 11148595 690 0 0
+953 874 8431057 753 0 0
+647 615 6253185 563 0 0
+379 358 7590224 263 0 0
+40 37 1048265 18 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+138 132 2149516 79 0 0
+66 66 322540 66 0 0
+26 24 158076 25 0 0
+0 0 0 0 0 0
+0
+0
+0
+13307
+0
+0
+0
+0
+0
+4
+0
+0
+48
+296
+25
+0
+214
+0
+0
+0
+1
+30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+290
+0
+0
+0
+0
+0
+# -urls- 
+/tool/favicon.ico
+0 8 0 760368 0 0 0 0
+/transaction/sales_order_due_date_detail_act
+0 4 0 8528 0 0 0 0
+/.well-known/acme-challenge/8JWEYQ4eFMSKvq916dd9tJA7UrZdlOaipz5nBEB4DVs
+0 5 0 1497 0 0 0 0
+/tool/adminlte/bower_components/Ionicons/fonts/ionicons.ttf
+0 40 0 7072113 0 0 0 0
+/transaction/request_order_print
+0 1 0 2700 0 0 0 0
+/approval/approve_so_act/approve
+0 18 0 18750 0 0 0 0
+/employee/employee_list
+0 1 0 57518 0 0 0 0
+/transaction/product_stock_list
+0 7 0 308799 0 0 0 0
+/transaction/sales_order_print
+0 117 0 433120 9 6 0 0
+/approval/upgrade_customer
+0 6 0 233857 0 0 0 0
+/tool/HeaderFaktur1.txt
+0 220 0 717324 0 0 0 0
+/tool/adminlte/bower_components/font-awesome/fonts/fontawesome-webfont.woff2
+0 74 0 5739016 0 0 0 0
+/tool/adminlte/bower_components/bootstrap-daterangepicker/daterangepicker.js
+0 31 0 407111 0 0 0 0
+/accounting/print_faktur
+0 64 0 160918 2 0 0 0
+/transaction/invoice_list
+0 15 0 859630 0 0 0 0
+/tool/jquery.alphanum.js
+0 98 0 699442 0 0 0 0
+/finance/customer_deposit_retur
+0 1 0 74718 0 0 0 0
+/master/get_atribute_set_detail
+0 30 0 67938 0 0 0 0
+/accounting/report_formula
+0 1 0 11596 0 0 0 0
+/master/fill_customercategory
+0 15 0 12201 1 0 0 0
+/main/home_dashboard
+0 2321 0 5476510 59 26 0 0
+/master/customer_list_detail
+0 1 0 4977 0 0 0 0
+/transaction/print_invoice2
+0 26 0 102129 0 1 0 0
+/tool/logo_small.png
+1 96 0 1775807 0 0 0 0
+/tool/adminlte/bower_components/select2/dist/css/select2.min.css
+0 34 0 89355 0 0 0 0
+/master/product_list_popup3_hpp_data
+0 2 0 2589 0 0 0 0
+/report/report_do_not_inv
+0 13 0 491435 1 0 0 0
+/report/product_stock_pending
+0 12 0 23965 1 0 0 0
+/tool/adminlte/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff
+0 1 0 23780 0 0 0 0
+/transaction/print_faktur
+0 2 0 3940 0 0 0 0
+/transaction/get_opname_detail
+0 10 0 8640 0 0 0 0
+/employee/fill_state
+0 15 0 18891 1 3 0 0
+/transaction/stock_adjustment_add
+0 10 0 344425 0 0 0 0
+/transaction/detail_to_invoice
+0 3 0 116314 0 0 0 0
+/master/productcategory_list
+0 1 0 75614 0 0 0 0
+/tool/jquery11.js
+0 35 0 2986164 0 0 0 0
+/master/fill_category_name_code
+0 30 0 27783 0 0 0 0
+/master/customer_cu/3551
+0 1 0 74953 0 0 0 0
+/master/customer_cu/8724
+0 1 0 25873 0 0 0 0
+/tool/HeaderFaktur2.txt
+0 63 0 203774 0 0 0 0
+/accounting/acc_journal_list
+0 3 0 39210 0 0 0 0
+/employee/fill_city
+0 13 0 13600 0 1 0 0
+/transaction/purchase_order_print
+0 18 0 72934 3 0 0 0
+/tool/adminlte/bower_components/jquery-slimscroll/jquery.slimscroll.min.js
+0 99 0 243229 0 0 0 0
+/transaction/delivery_order_list
+0 107 0 5873908 1 2 0 0
+/tool/adminlte/bower_components/bootstrap/dist/js/bootstrap.min.js
+0 115 0 1235402 0 0 0 0
+/transaction/purchase_order_list
+0 42 0 1386419 1 0 0 0
+/tool/jquery.resize.js
+0 76 0 203317 0 0 0 0
+/transaction/product_stock_opname_list
+0 7 0 261744 0 0 0 0
+/report/report_product_stock_ready_data
+0 86 0 166211 3 1 0 0
+/transaction/delivery_order_edit
+0 4 0 176409 0 0 0 0
+/master/customer_cu_act
+0 14 0 15480 0 2 0 0
+/transaction/product_stock_pending
+0 4 0 8710 0 0 0 0
+/tool/adminlte/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2
+0 94 0 1740411 0 0 0 0
+/transaction/get_customer_address
+0 43 0 67636 0 4 0 0
+/transaction/purchase_order_print2
+0 16 0 68931 2 0 0 0
+/tool/fancyTable.min.js
+0 8 0 14664 0 0 0 0
+/master/customer_cu/10771
+0 1 0 75149 0 0 0 0
+/tool/adminlte/bower_components/Ionicons/css/ionicons.min.css
+0 131 0 1224492 0 0 0 0
+/marketing/manage_city
+0 2 0 123083 0 0 0 0
+/finance/customer_deposit_detail_full
+0 1 0 1147 0 0 0 0
+/master/promo_volume_detail
+0 1 0 5138 0 0 0 0
+/general/delivery_order_print
+0 40 0 139365 1 0 0 0
+/report/report_inv_global
+0 6 0 220093 0 0 0 0
+/tool/adminlte/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js
+0 77 0 132746 0 0 0 0
+/master/customer_list
+0 2 0 89527 0 0 0 0
+/master/get_category_name
+0 30 0 18096 0 0 0 0
+/report/report_inv_unpaid
+0 5 0 154104 2 0 0 0
+/finance/bank_distribution
+0 34 0 6156075 0 0 0 0
+/.well-known/pki-validation/DCA14AB3780372504F62089BAEE40A73.txt
+0 4 0 8700 0 0 0 0
+/tool/jstree/dist/jstree.js
+0 2 0 126422 0 0 0 0
+/report/report_do_global
+0 23 0 1102617 5 0 0 0
+/finance/customer_deposit_distribution
+0 1 0 75146 0 0 0 0
+/tool/adminlte/bower_components/jquery/dist/jquery.min.js
+0 115 0 3606376 0 0 0 0
+/transaction/sales_order_goApproval
+0 20 0 21818 0 0 0 0
+/tool/jstree/dist/themes/default/style.min.css
+0 2 0 8660 0 0 0 0
+/transaction/delivery_order_received_print2
+0 1 0 3500 0 0 0 0
+/transaction/detail_to_dor
+0 4 0 179581 0 0 0 0
+/master/fill_price
+0 16 0 23581 0 0 0 0
+/report/report_product_stock_ready
+0 26 0 1795564 5 1 0 0
+/report/report_so_sales
+0 2 0 61070 0 0 0 0
+/report/report_bonus_invoice
+0 1 0 26898 0 0 0 0
+/accounting/acc_stock_value2
+0 1 0 14374 0 0 0 0
+/main/cek_any
+0 1 0 398 0 0 0 0
+/transaction/delivery_order_received_add
+0 3 0 135224 0 0 0 0
+/tool/adminlte/bower_components/bootstrap/dist/css/bootstrap.min.css
+0 138 0 2812514 0 0 0 0
+/transaction/request_to_purchase
+0 13 0 323532 3 0 0 0
+/master/product_list_data
+0 36 0 82865 3 2 0 0
+/accounting/acc_stock_value
+0 3 3474581186982072400 70851 0 0 0 0
+/master/contact_list_detail
+0 1 0 1825 0 0 0 0
+/finance/bank_transaction_daily_report
+0 5 0 12190 0 1 0 0
+/report/report_po_dor
+0 7 0 174048 3 0 0 0
+/approval/approve_stock_adjustment_detail
+0 3 0 4910 0 0 0 0
+/approval/approve_so_detail
+0 23 0 71874 0 3 0 0
+/master/customer_cu/7518
+0 1 0 26582 0 0 0 0
+/transaction/print_freight_charge
+0 2 0 5543 0 0 0 0
+/finance/bank_transaction
+0 33 0 5008783 0 1 0 0
+/transaction/delivery_order_print2
+0 31 0 101442 0 2 0 0
+/login/send_email
+0 1 0 1058 0 0 0 0
+/transaction/delivery_order_print
+0 13 0 49977 0 0 0 0
+/report/report_customer_deposit
+0 20 0 621323 4 1 0 0
+/tool/adminlte/bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css
+0 112 0 329968 0 0 0 0
+/master/product_list_popup2_data
+0 60 0 75817 0 1 0 0
+/tool/adminlte/bower_components/font-awesome/css/font-awesome.min.css
+0 132 0 1097245 0 0 0 0
+/master/product_list
+0 22 0 1319991 1 0 0 0
+/transaction/sales_order_list
+0 90 0 4426889 0 1 0 0
+/tool/adminlte/dist/js/demo.js
+0 98 0 325092 0 0 0 0
+/transaction/sales_order_add
+0 43 0 2034331 0 0 0 0
+/tool/adminlte/plugins/iCheck/square/blue.css
+0 74 0 119992 0 0 0 0
+/finance/fill_transaction
+0 84 0 59952 0 6 0 0
+/transaction/request_order_add
+0 15 0 383143 0 0 0 0
+/transaction/invoice_retur_list
+0 2 0 77132 0 0 0 0
+/tool/dataTables.checkboxes.css
+0 4 0 2832 0 0 0 0
+/transaction/product_stock_list_data
+0 47 0 94199 5 1 0 0
+/report/report_inv_100_cities_east_city
+0 9 0 730320 0 0 0 0
+/transaction/product_list_popup_so_data
+0 107 0 178440 19 3 0 0
+/master/get_brand_name
+0 32 0 28850 0 2 0 0
+/transaction/sales_order_file_attach
+0 1 0 917 0 1 0 0
+/general/delivery_order_print2
+0 1 6297558884122959913 5811 1 0 0 0
+/report/report_inv_sales
+0 1 0 30443 0 0 0 0
+/approval/approve_so
+0 50 0 2560358 0 1 0 0
+/employee/fill_districts
+0 12 0 17387 0 0 0 0
+/marketing/manage_city_cu
+0 1 0 51110 0 0 0 0
+/master/customer_cu/7176
+0 3 0 126454 0 0 0 0
+/master/get_atribute_value
+0 1 0 2692 0 0 0 0
+/master/get_category_code
+0 30 0 17076 1 0 0 0
+/general/product_list_popup_opname2
+0 2 0 143062 0 1 0 0
+/general/search_contact
+0 2 0 2215 0 0 0 0
+/report/report_inv_100_cities_west_city
+0 5 0 374180 0 0 0 0
+/accounting/acc_faktur_inv_retur
+0 1 0 40648 0 0 0 0
+/login
+0 195 0 512195 7 5 0 0
+/accounting/acc_stock_value_data
+0 9 2321098931543684399 14809 0 0 0 0
+/report/report_product_general
+0 7 0 359171 1 0 0 0
+/accounting/report_result
+0 3 0 37497 0 0 0 0
+/accounting/ajax_account_list_jstree_table
+0 6 0 3138 0 1 0 0
+/finance/get_distribution_detail
+0 5 0 5879 0 0 0 0
+/employee/fill_pos
+0 6 0 6141 0 0 0 0
+/report/report_inv_city_detail
+0 5 0 9080 0 0 0 0
+/tool/fixedColumns.bootstrap.min.css
+0 70 0 72872 0 0 0 0
+/transaction/product_stock_history
+0 5 0 40530 1 0 0 0
+/master/city_list
+0 1 0 60103 0 0 0 0
+/master/customer_cu/8545
+0 2 0 52358 0 0 0 0
+/main/stillAlive
+0 1336 0 1347545 6 16 0 0
+/transaction/product_list_popup_so
+0 34 0 124827 0 1 0 0
+/tool/jquery-ui.css
+0 2 0 15803 0 0 0 0
+/main/userlive
+0 1336 0 1462730 11 51 0 0
+/master/fill_statusquality
+0 30 0 17568 0 0 0 0
+/approval/approve_po
+0 21 0 472425 0 0 0 0
+/transaction/detail_to_do
+0 25 0 1205385 2 0 0 0
+/master/promo_volume_cu/new
+0 1 0 90993 0 0 0 0
+/tool/adminlte/bower_components/select2/dist/js/select2.full.min.js
+0 34 0 743773 0 0 0 0
+/finance/bank_distribution_add
+0 2 0 177359 0 0 0 0
+/tool/jstree/src/jstreegrid.js
+0 2 0 31552 0 0 0 0
+/transaction/get_product_promo
+0 19 0 20071 0 0 0 0
+/transaction/request_order_list
+0 22 0 695737 1 0 0 0
+/tool/adminlte/bower_components/moment/min/moment.min.js
+0 31 0 546561 0 0 0 0
+/master/customer_cu/2349
+0 1 0 25943 0 0 0 0
+/tool/adminlte/bower_components/datatables.net/js/jquery.dataTables.min.js
+0 78 0 2233621 0 0 0 0
+/master/contact_list_data2
+0 8 0 12006 0 1 0 0
+/tool/jquery8.js
+0 97 0 7809402 0 0 0 0
+/tool/dataTables.checkboxes.min.js
+0 8 0 36168 0 0 0 0
+/master/fill_sales
+0 15 0 26340 0 0 0 0
+/tool/adminlte/bower_components/bootstrap-daterangepicker/daterangepicker.css
+0 114 0 281221 0 0 0 0
+/transaction/sales_order_due_date_detail
+0 7 0 17592 1 0 0 0
+/report/report_product_stock_all
+0 4 0 234108 1 0 0 0
+/master/product_list_popup2
+0 23 0 79261 0 0 0 0
+/general/product_list_popup_data
+0 2 0 4643 0 0 0 0
+/accounting/acc_account_list
+0 6 0 155105 0 0 0 0
+/tool/adminlte/bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js
+0 82 0 894890 0 0 0 0
+/transaction/print_invoice
+0 6 0 24904 0 1 0 0
+/finance/get_customer_deposit_dst
+0 25 0 24267 0 1 0 0
+/master/product_add
+0 31 0 1920645 1 0 0 0
+/transaction/product_stock_opname_detail
+0 3 0 11469 0 0 0 0
+/general/search_customer_city
+0 92 0 134635 0 0 0 0
+/master/customer_cu/1694
+0 1 0 26906 0 0 0 0
+/accounting/report_balance
+0 2 0 25714 0 0 0 0
+/report/report_so_global
+0 32 0 1396887 5 0 0 0
+/master/price_list
+0 1 0 42740 0 0 0 0
+/tool/adminlte/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css
+0 109 0 174289 0 0 0 0
+/tool/adminlte/bower_components/Ionicons/fonts/ionicons.woff
+0 1 0 68327 0 0 0 0
+/master/contact_list
+0 7 0 284163 0 0 0 0
+/master/fill_atribute_set
+0 31 0 29089 0 1 0 0
+/tool/jstree/dist/themes/default/32px.png
+1 2 0 11976 0 0 0 0
+/general/sales_order_print
+0 6 0 19665 0 0 0 0
+/transaction/purchase_order_edit
+0 2 0 68554 0 0 0 0
+/tool/adminlte/dist/js/adminlte.min.js
+0 97 0 425180 0 0 0 0
+/transaction/delivery_order_add
+0 28 0 1273233 1 0 0 0
+/report/report_product_list
+0 12 0 22624 3 1 0 0
+/transaction/get_stock
+0 41 0 28628 0 2 0 0
+/
+0 50 0 1890923 37 0 0 0
+/tool/logo_big.png
+1 96 0 13892470 0 0 0 0
+/employee/fill_religion
+0 15 0 10371 1 0 0 0
+/transaction/sales_order_due_date
+0 12 0 340720 0 0 0 0
+/tool/dtPrint.css
+0 1 0 1127 0 0 0 0
+/master/customer_list_data2
+0 5 0 8174 0 0 0 0
+/master/customer_cu/10631
+0 1 0 75233 0 0 0 0
+/report/report_so_detail
+0 127 0 413888 5 10 0 0
+/finance/confirmation_deposit
+0 57 0 4105183 0 0 0 0
+/finance/bank_distribution_print
+0 1 0 2169 0 0 0 0
+/transaction/get_so_detail
+0 12 0 17433 0 0 0 0
+/accounting/acc_account_assignment
+0 3 0 35583 0 0 0 0
+/tool/jstree/dist/themes/default/throbber.gif
+1 2 0 3524 0 0 0 0
+/transaction/purchase_order_add
+0 10 0 358703 0 1 0 0
+/report/report_bonus_sales
+0 8 0 310272 1 0 0 0
+/general/ajax_product_category_list_jstree_table
+0 1 0 11596 0 0 0 0
+/tool/jquery.inputmask.bundle.js
+0 19 0 682679 0 0 0 0
+/report/report_so_outstanding_payment
+0 12 0 686841 0 0 0 0
+/tool/adminlte/bower_components/bootstrap/dist/css/bootstrap.min.css.map
+0 1 0 103117 0 0 0 0
+/report/report_inv_city
+0 2 0 131166 0 0 0 0
+/transaction/stock_adjustment_list
+0 10 0 391474 0 0 0 0
+/approval/approve_stock_adjustment
+0 6 0 241383 0 0 0 0
+/tool/title-numeric.js
+0 4 0 4516 0 0 0 0
+/report/report_do_consignment
+0 1 0 25781 0 0 0 0
+/general/product_list_popup
+0 1 0 11736 0 0 0 0
+/master/product_list_popup3_hpp
+0 1 0 2924 0 0 0 0
+/master/supplier_list_detail2
+0 9 0 10527 0 0 0 0
+/tool/adminlte/plugins/iCheck/icheck.min.js
+0 70 0 236299 0 0 0 0
+/master/generatenamecode
+0 22 0 22840 0 0 0 0
+/tool/adminlte/dist/css/skins/_all-skins.min.css
+0 109 0 473424 0 0 0 0
+/report/report_approval_so
+0 1 0 31578 0 0 0 0
+/transaction/get_product_price
+0 41 0 45568 0 1 0 0
+/master/get_brand_code
+0 32 0 26946 0 0 0 0
+/master/get_category_aribute_set
+0 2 0 2108 0 0 0 0
+/tool/adminlte/dist/css/AdminLTE.min.css
+0 129 0 2074996 0 0 0 0
+/finance/customer_deposit_detail
+0 2 0 156581 0 0 0 0
+/tool/dataTables.fixedColumns.min.js
+0 77 0 450158 0 0 0 0
+/finance/fill_bank_distribution_type
+0 37 0 43016 0 3 0 0
+/report/report_approval_adjustment
+0 1 0 28949 0 0 0 0
+/master/productatribute_list
+0 2 0 103452 0 0 0 0
+/finance/confirmation_deposit_distribution
+0 29 0 1954434 0 0 0 0
+/employee/fill_province
+0 12 0 17040 0 1 0 0
+/main/checkAlive
+0 1336 0 690499 2 2 0 0
+/approval/approve_po_detail
+0 8 0 14659 0 0 0 0
+/report/product_stock_list_data
+0 15 0 23439 4 0 0 0
+/tool/jquery-ui.js
+0 18 0 2013612 0 0 0 0
+/tool/adminlte/bower_components/fastclick/lib/fastclick.js
+0 99 0 823789 0 0 0 0
+/main
+0 149 0 6896537 28 1 0 0
+/accounting/acc_faktur_inv
+0 18 0 1295414 0 0 0 0
+/master/customer_cu/10010
+0 1 0 26080 0 0 0 0
+/master/promo_volume
+0 2 0 120022 0 0 0 0
+/master/customer_cu/6360
+0 2 0 150241 0 0 0 0
+/transaction/sales_order_edit
+0 20 0 953291 0 1 0 0
+/report/report_so_outstanding_do
+0 124 0 4867009 15 2 0 0
+/tool/favicon.png
+1 212 0 5702960 0 0 0 0
+/transaction/delivery_order_received_list
+0 11 0 460804 0 1 0 0
+# End Of Table - urls
+# -sites- (monthly)
+182.1.82.165
+0 15 15 31095 1 1592893627 0 0
+/main/home_dashboard
+114.122.75.208
+0 12 12 120927 1 1592905133 0 0
+/main/stillAlive
+180.254.54.139
+0 40 35 626692 1 1592834246 0 0
+/main/cek_any
+52.28.236.88
+0 1 1 299 0 0 0 0
+-
+139.228.43.181
+0 23 22 713186 1 1592944466 0 0
+/main/home_dashboard
+182.1.106.7
+0 13 6 27553 1 1592885396 0 0
+/login
+36.74.37.225
+0 12 11 157424 1 1592881411 0 0
+/login
+116.206.40.113
+0 98 95 815087 3 1592970078 0 0
+/master/product_list
+36.74.197.95
+0 60 58 812900 1 1592902833 0 0
+/report/report_product_stock_ready_data
+114.125.71.6
+0 21 16 173377 1 1592883133 0 0
+/login
+114.122.73.42
+0 45 39 318845 1 1592962324 0 0
+/main/userlive
+182.1.66.11
+0 11 11 89628 1 1592885426 0 0
+/main/userlive
+23.246.218.184
+0 4 2 4730 0 0 0 0
+-
+114.4.221.109
+0 118 114 1426597 3 1593017768 0 0
+/main/checkAlive
+114.125.127.23
+0 58 56 532636 3 1593005425 0 0
+/main/userlive
+114.5.242.250
+0 49 47 1975008 1 1592965441 0 0
+/main/userlive
+114.122.106.128
+0 2 2 18928 0 0 0 0
+-
+114.122.68.225
+0 3 3 10024 1 1592902781 0 0
+/main/home_dashboard
+114.122.69.184
+0 28 25 194115 1 1592892282 0 0
+/login
+114.122.74.63
+0 1 1 31755 1 1592904516 0 0
+/report/report_customer_deposit
+114.125.77.8
+0 51 50 576028 1 1592896448 0 0
+/report/report_product_stock_ready_data
+114.122.75.77
+0 3 3 32787 1 1592904804 0 0
+/main/stillAlive
+114.4.220.195
+0 16 13 168110 1 1592889295 0 0
+/login
+114.125.125.182
+0 1 0 392 1 1592884350 0 0
+/
+182.1.85.238
+0 31 29 512432 1 1592968222 0 0
+/report/report_so_detail
+114.122.73.70
+0 30 26 243908 1 1592963791 0 0
+/main/userlive
+103.247.197.19
+0 2 1 5855 1 1592927344 0 0
+/login
+114.122.107.21
+0 25 23 281343 3 1593010850 0 0
+/report/report_so_detail
+182.1.67.10
+0 43 39 797612 2 1592889727 0 0
+/main/home_dashboard
+114.125.87.134
+0 56 53 782095 2 1592901182 0 0
+/login
+114.122.73.130
+0 21 21 168358 2 1592899487 0 0
+/report/report_product_list
+182.1.67.5
+0 9 9 30105 1 1592894830 0 0
+/main/home_dashboard
+114.122.107.55
+0 22 14 129775 2 1592975343 0 0
+/main/stillAlive
+36.74.133.173
+0 3113 2924 36976363 36 1592907950 0 0
+/main/userlive
+10.1.1.1
+0 284 284 921399 0 0 0 0
+-
+114.122.106.74
+0 11 10 85116 3 1593010821 0 0
+/main/userlive
+182.1.125.83
+0 58 58 576052 2 1593033748 0 0
+/main
+114.125.77.34
+0 17 15 221159 1 1592890609 0 0
+/report/report_bonus_sales
+201.62.48.101
+0 12 10 150708 1 1592963193 0 0
+/login
+182.1.67.180
+0 9 9 94488 1 1592887661 0 0
+/general/delivery_order_print
+103.47.133.146
+0 48 46 472357 2 1593044037 0 0
+/login
+66.102.8.40
+0 2 2 36516 0 0 0 0
+-
+114.122.107.135
+0 21 18 201023 3 1593010951 0 0
+/main/stillAlive
+120.188.84.135
+0 230 224 3104130 4 1592905811 0 0
+/report/report_product_stock_ready_data
+114.122.70.84
+0 15 15 124880 1 1592901702 0 0
+/main/userlive
+180.253.137.183
+0 3839 3621 48332296 65 1593018666 0 0
+/finance/fill_transaction
+182.1.83.21
+0 22 22 167185 2 1592965093 0 0
+/main/userlive
+114.122.69.193
+0 7 7 53381 1 1592903336 0 0
+/general/sales_order_print
+114.122.74.253
+0 59 56 609542 1 1592964344 0 0
+/main/userlive
+114.125.81.82
+0 1 0 392 1 1592884557 0 0
+/
+116.206.29.37
+0 18 16 171056 1 1592962877 0 0
+/main/userlive
+163.172.70.242
+0 1 0 392 1 1593028923 0 0
+/
+202.67.40.9
+0 1 1 4452 1 1592976300 0 0
+/master/product_list_data
+175.158.53.69
+0 237 224 2247927 3 1592969128 0 0
+/main/userlive
+91.199.212.132
+0 2 1 3006 0 0 0 0
+-
+182.1.81.24
+0 7 7 45147 1 1592889127 0 0
+/main/home_dashboard
+114.122.106.37
+0 1 1 1338 0 0 0 0
+-
+182.1.86.237
+0 6 6 65266 1 1592969180 0 0
+/report/report_so_detail
+114.122.74.65
+0 4 4 51565 1 1592905269 0 0
+/report/report_product_list
+167.71.202.93
+0 3 0 5481 1 1592812038 0 0
+-
+114.125.109.234
+0 2 2 5752 1 1592895691 0 0
+/master/product_list_data
+114.122.72.20
+0 30 28 170410 1 1592898881 0 0
+/report/report_product_stock_ready_data
+114.125.81.106
+0 1 0 392 1 1592889070 0 0
+/
+114.122.106.120
+0 5 4 55304 1 1592890354 0 0
+/login
+182.1.104.148
+0 3 2 33727 1 1592883226 0 0
+/login
+182.1.65.8
+0 25 23 148182 3 1592962337 0 0
+/main/userlive
+125.164.94.171
+0 58 56 956010 1 1593031115 0 0
+/main/home_dashboard
+114.122.106.134
+0 24 17 172346 3 1593010831 0 0
+/main/userlive
+114.122.105.68
+0 2 0 5527 1 1592889155 0 0
+-
+182.1.86.40
+0 10 10 155074 1 1592972804 0 0
+/report/report_product_stock_ready_data
+36.74.98.49
+0 32 16 95093 1 1592907660 0 0
+/login
+203.78.118.130
+0 12 11 148508 1 1592943326 0 0
+/login
+34.222.229.130
+0 1 1 299 0 0 0 0
+-
+116.206.40.82
+0 54 52 844206 1 1592899800 0 0
+/main/userlive
+202.67.41.220
+0 33 32 356033 3 1593010829 0 0
+/main/userlive
+114.122.73.55
+0 11 11 70539 1 1592899850 0 0
+/main/userlive
+114.122.106.20
+0 18 18 148409 3 1593010951 0 0
+/main/userlive
+114.122.74.209
+0 5 5 65353 1 1592904504 0 0
+/main/stillAlive
+8.21.11.14
+0 15 12 161067 1 1593008550 0 0
+/login
+114.122.107.75
+0 10 9 108009 2 1592975328 0 0
+/main/stillAlive
+182.1.120.175
+0 16 13 164660 1 1592883702 0 0
+/login
+116.206.40.60
+0 13 11 154056 1 1592833933 0 0
+/login
+182.1.124.116
+0 323 311 3007896 3 1592900250 0 0
+/master/product_list_data
+114.122.75.72
+0 87 80 1208086 1 1592890554 0 0
+/report/product_stock_pending
+64.78.149.164
+0 1 1 299 0 0 0 0
+-
+114.79.55.238
+0 12 11 148351 1 1592890144 0 0
+/login
+114.122.75.234
+0 18 16 225229 1 1592905270 0 0
+/main/userlive
+114.122.69.101
+0 7 7 37988 1 1592902481 0 0
+/main/home_dashboard
+182.1.68.93
+0 13 11 120714 1 1593017720 0 0
+/login
+62.210.10.77
+0 1 0 4209 1 1593028926 0 0
+/
+114.122.73.205
+0 47 47 441421 2 1592963448 0 0
+/main/userlive
+182.1.71.94
+0 15 13 130669 1 1593016157 0 0
+/report/report_product_stock_ready_data
+114.122.68.127
+0 14 14 129054 1 1592903060 0 0
+/main/userlive
+182.1.122.173
+0 8 4 18297 1 1592884471 0 0
+/login
+114.122.72.164
+0 14 9 79058 1 1592900074 0 0
+/main/userlive
+52.15.254.228
+0 1 1 299 0 0 0 0
+-
+114.122.74.181
+0 3 2 10994 1 1592904504 0 0
+/main/userlive
+202.67.40.242
+0 114 110 939175 2 1593008619 0 0
+/main/stillAlive
+65.155.30.101
+0 12 10 127541 1 1592877395 0 0
+/login
+112.215.171.123
+0 192 184 1746139 3 1592902634 0 0
+/master/contact_list_data2
+114.122.75.90
+0 8 8 76903 1 1592905133 0 0
+/main/userlive
+202.67.46.9
+0 17 15 141492 1 1593037004 0 0
+/main/userlive
+66.102.8.37
+0 6 6 84083 1 1592885169 0 0
+/login
+66.102.8.38
+0 3 2 19767 1 1592885169 0 0
+/main
+114.5.247.81
+0 26 23 171273 1 1592919824 0 0
+/transaction/purchase_order_print2
+114.125.84.184
+0 12 11 148665 1 1592916533 0 0
+/login
+182.1.83.133
+0 3 3 2748 1 1592889427 0 0
+/main/home_dashboard
+112.215.170.59
+0 83 79 412658 1 1592970189 0 0
+/main/userlive
+182.1.66.37
+0 37 37 253436 2 1592892130 0 0
+/main/home_dashboard
+114.5.110.202
+0 1 0 448 1 1592829613 0 0
+-
+182.1.85.234
+0 8 6 71419 1 1593018169 0 0
+/main
+36.74.195.229
+0 3210 3056 36082838 39 1593015408 0 0
+/main/stillAlive
+182.1.69.130
+0 12 12 81069 2 1592979736 0 0
+/report/report_product_stock_ready_data
+36.74.194.20
+0 257 150 2510870 1 1592836394 0 0
+/main/home_dashboard
+114.122.71.85
+0 13 13 85694 1 1592901155 0 0
+/report/report_product_list
+182.1.121.173
+0 60 60 90283 1 1592950450 0 0
+/main/home_dashboard
+182.1.66.148
+0 1 1 5554 1 1592887118 0 0
+/report/report_so_detail
+114.122.106.48
+0 4 4 81854 0 0 0 0
+-
+114.125.78.155
+0 77 73 1068165 2 1592882053 0 0
+/main/userlive
+114.125.79.137
+0 146 143 1560833 1 1592893307 0 0
+/main/userlive
+114.5.110.243
+0 2 0 5883 1 1592971258 0 0
+/report/report_do_global
+114.122.75.64
+0 1 1 3577 1 1592904804 0 0
+/main/userlive
+65.154.226.109
+0 12 10 127541 1 1592877396 0 0
+/login
+45.40.120.108
+0 2 1 6318 1 1592880916 0 0
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+103.47.133.146
+0 1 1 5318 1 1593044037 0 0
+/login
+# End Of Table - sites (daily)
+# -referrers- 
+https://ahz.anghauz.net/transaction/delivery_order_list
+0 512
+https://ahz.anghauz.net/master/price_list
+0 4
+https://ahz.anghauz.net/transaction/purchase_order_print2
+0 1
+https://ahz.anghauz.net/transaction/product_stock_opname_detail
+0 1
+https://ahz.anghauz.net/master/product_add
+0 444
+https://ahz.anghauz.net/accounting/report_posted
+0 1
+https://ahz.anghauz.net/finance/customer_deposit_distribution
+0 6
+https://ahz.anghauz.net/approval/upgrade_customer
+0 28
+https://ahz.anghauz.net/transaction/invoice_list
+0 99
+https://ahz.anghauz.net/transaction/sales_order_edit
+0 94
+https://ahz.anghauz.net/report/report_bonus_sales
+0 42
+https://ahz.anghauz.net/approval/approve_so
+0 416
+https://ahz.anghauz.net/report/report_inv_global
+0 21
+https://ahz.anghauz.net/master/promo_volume_cu/new
+0 7
+https://ahz.anghauz.net/transaction/product_stock_history
+0 19
+https://ahz.anghauz.net/transaction/delivery_order_print
+0 3
+https://ahz.anghauz.net/accounting/report_result
+0 12
+https://ahz.anghauz.net/transaction/sales_order_print
+0 2
+https://ahz.anghauz.net/tool/jstree/dist/themes/default/style.min.css
+0 4
+https://ahz.anghauz.net/transaction/purchase_order_list
+0 255
+https://ahz.anghauz.net/accounting/acc_account_assignment
+0 12
+https://ahz.anghauz.net/report/report_do_global
+0 148
+https://ahz.anghauz.net/accounting/acc_faktur_inv_retur
+0 4
+https://ahz.anghauz.net/master/product_list
+0 113
+https://ahz.anghauz.net/newbo/login
+0 1
+https://ahz.anghauz.net/marketing/manage_city_cu
+0 3
+https://ahz.anghauz.net/transaction/print_invoice
+0 1
+https://ahz.anghauz.net/transaction/detail_to_invoice
+0 10
+https://ahz.anghauz.net/transaction/request_order_add
+0 109
+https://ahz.anghauz.net/master/customer_cu/8545
+0 18
+https://ahz.anghauz.net/master/customer_cu/3551
+0 13
+https://ahz.anghauz.net/
+0 1036
+https://ahz.anghauz.net/report/report_so_outstanding_do
+0 850
+https://ahz.anghauz.net/master/customer_cu/7176
+0 39
+https://ahz.anghauz.net/finance/confirmation_deposit_distribution
+0 216
+https://ahz.anghauz.net/master/customer_cu/10631
+0 13
+https://ahz.anghauz.net/master/customer_cu/6360
+0 27
+https://ahz.anghauz.net/report/report_approval_so
+0 8
+https://ahz.anghauz.net/tool/adminlte/bower_components/font-awesome/css/font-awesome.min.css
+0 74
+https://ahz.anghauz.net/report/report_inv_city
+0 15
+https://ahz.anghauz.net/transaction/request_to_purchase
+0 51
+https://ahz.anghauz.net/finance/customer_deposit_detail
+0 9
+https://ahz.anghauz.net/transaction/product_stock_opname_list
+0 62
+https://ahz.anghauz.net/report/report_do_not_inv
+0 97
+https://ahz.anghauz.net/tool/adminlte/bower_components/Ionicons/css/ionicons.min.css
+0 41
+https://ahz.anghauz.net/report/report_product_stock_ready
+0 252
+https://ahz.anghauz.net/master/product_list_popup3_hpp
+0 4
+https://ahz.anghauz.net/transaction/delivery_order_edit
+0 25
+https://ahz.anghauz.net/master/customer_cu/2349
+0 9
+https://ahz.anghauz.net/employee/employee_list
+0 9
+https://ahz.anghauz.net/transaction/purchase_order_print
+0 2
+https://ahz.anghauz.net/master/city_list
+0 4
+https://ahz.anghauz.net/report/report_customer_deposit
+0 95
+https://ahz.anghauz.net/transaction/product_stock_list
+0 145
+https://ahz.anghauz.net/approval/approve_stock_adjustment
+0 37
+https://ahz.anghauz.net/report/report_bonus_invoice
+0 6
+https://ahz.anghauz.net/report/report_so_sales
+0 14
+https://www.google.com/
+0 3
+- (Direct Request)
+0 681
+https://ahz.anghauz.net/transaction/detail_to_do
+0 147
+https://ahz.anghauz.net/transaction/product_list_popup_so
+0 110
+https://ahz.anghauz.net/transaction/detail_to_dor
+0 12
+https://ahz.anghauz.net/transaction/delivery_order_received_add
+0 15
+https://ahz.anghauz.net/report/report_inv_unpaid
+0 20
+https://ahz.anghauz.net/main/cek_any
+0 1
+https://ahz.anghauz.net/transaction/sales_order_due_date
+0 110
+https://ahz.anghauz.net/transaction/invoice_retur_list
+0 8
+https://ahz.anghauz.net/report/report_inv_100_cities_west_city
+0 21
+https://ahz.anghauz.net/transaction/purchase_order_add
+0 69
+https://ahz.anghauz.net/master/customer_cu/8724
+0 12
+https://ahz.anghauz.net/accounting/acc_journal_list
+0 15
+http://www.bing.com/search
+0 6
+https://ahz.anghauz.net/master/customer_cu/1694
+0 12
+https://ahz.anghauz.net/report/report_product_general
+0 49
+https://ahz.anghauz.net/index.php
+0 1
+https://ahz.anghauz.net/accounting/acc_account_list
+0 38
+https://ahz.anghauz.net/master/customer_cu/7518
+0 18
+https://ahz.anghauz.net/finance/bank_distribution_add
+0 16
+https://ahz.anghauz.net/master/product_list_popup2
+0 60
+https://ahz.anghauz.net/transaction/request_order_list
+0 174
+https://ahz.anghauz.net/report/report_do_consignment
+0 7
+https://ahz.anghauz.net/master/customer_list
+0 13
+https://ahz.anghauz.net/master/customer_cu/10010
+0 9
+http://ahz.anghauz.net/
+0 1
+https://ahz.anghauz.net/accounting/acc_faktur_inv
+0 158
+https://ahz.anghauz.net/finance/confirmation_deposit
+0 315
+https://ahz.anghauz.net/report/report_approval_adjustment
+0 27
+https://ahz.anghauz.net/report/report_so_outstanding_payment
+0 71
+https://ahz.anghauz.net/transaction/sales_order_list
+0 514
+https://ahz.anghauz.net/login
+0 880
+https://ahz.anghauz.net/report/report_inv_100_cities_east_city
+0 39
+https://ahz.anghauz.net/tool/adminlte/bower_components/bootstrap/dist/css/bootstrap.min.css
+0 94
+https://ahz.anghauz.net/transaction/stock_adjustment_add
+0 128
+https://ahz.anghauz.net/accounting/report_balance
+0 9
+https://ahz.anghauz.net/transaction/stock_adjustment_list
+0 114
+https://ahz.anghauz.net/finance/bank_distribution
+0 282
+https://ahz.anghauz.net/report/report_product_stock_all
+0 50
+https://ahz.anghauz.net/transaction/delivery_order_add
+0 172
+https://ahz.anghauz.net/master/customer_cu/10771
+0 13
+https://ahz.anghauz.net/master/productatribute_list
+0 10
+https://ahz.anghauz.net/finance/customer_deposit_retur
+0 4
+https://ahz.anghauz.net/accounting/print_faktur
+0 1
+https://ahz.anghauz.net/report/report_po_dor
+0 23
+https://ahz.anghauz.net/general/product_list_popup_opname2
+0 7
+https://ahz.anghauz.net/master/promo_volume
+0 11
+https://ahz.anghauz.net/accounting/acc_stock_value2
+0 10
+https://ahz.anghauz.net/master/productcategory_list
+0 5
+https://ahz.anghauz.net/finance/bank_transaction
+0 270
+https://ahz.anghauz.net/general/delivery_order_print
+0 2
+https://ahz.anghauz.net/report/report_so_global
+0 154
+https://ahz.anghauz.net/general/product_list_popup
+0 5
+https://ahz.anghauz.net/accounting/acc_stock_value
+0 24
+http://198.167.141.26/.well-known/pki-validation/DCA14AB3780372504F62089BAEE40A73.txt
+0 1
+https://ahz.anghauz.net/accounting/report_formula
+0 4
+https://ahz.anghauz.net/main
+0 3008
+https://ahz.anghauz.net/transaction/sales_order_add
+0 421
+https://ahz.anghauz.net/report/report_inv_sales
+0 3
+https://ahz.anghauz.net/approval/approve_po
+0 94
+https://ahz.anghauz.net/transaction/delivery_order_received_list
+0 65
+https://ahz.anghauz.net/master/contact_list
+0 36
+https://ahz.anghauz.net/.well-known/pki-validation/DCA14AB3780372504F62089BAEE40A73.txt
+0 1
+https://ahz.anghauz.net/transaction/purchase_order_edit
+0 11
+https://ahz.anghauz.net/marketing/manage_city
+0 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 427
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A600G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.0 Chrome/79.0.3945
+0 451
+Mozilla/5.0 (Linux; Android 8.0.0; RNE-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 54
+Mozilla/5.0 (Linux; Android 5.1.1; A37f) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.99 Mobile Safari/537.36
+0 51
+Mozilla/5.0 (compatible; Let's Encrypt validation server; +https://www.letsencrypt.org)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 24
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 95
+COMODO DCV
+0 2
+Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/60
+0 1
+Mozilla/5.0 (Linux; U; Android 9; en-us; CPH1989 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 24
+Mozilla/5.0 (Linux; Android 9; SM-J730G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 12
+Mozilla/5.0 (Linux; Android 10; LM-G710N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 53
+Mozilla/5.0 (Linux; Android 7.0; SO-01J) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.119 Mobile Safari/537.36
+0 16
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 
+0 16
+Mozilla/5.0 (Linux; Android 8.0.0; F8131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.116 Mobile Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 781
+WhatsApp/2.20.61 i
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 1247
+Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0
+0 4
+Mozilla/5.0 (Linux; Android 7.1.1; LG-M700) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Mobile Safari/537.36
+0 348
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:77.0) Gecko/20100101 Firefox/77.0
+0 2369
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 347
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4173.2 Safari/537.36
+0 235
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 136
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 UBrowser/7.0.185.1002 Safari/
+0 60
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-J610F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.2 Chrome/75.0.3770.
+0 38
+Mozilla/5.0 (Linux; Android 10; SM-A305F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 181
+Mozilla/5.0 (Windows NT 6.1; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 3866
+Mozilla/5.0 (Linux; Android 10; RMX1931) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 47
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 11
+Mozilla/5.0 (Linux; Android 8.1.0; TA-1021) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36
+0 136
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+0 2
+Dalvik/2.1.0 (Linux; U; Android 10; SM-A600G Build/QP1A.190711.020)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 1230
+acme-tiny
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 150
+Mozilla/5.0 (Linux; U; Android 8.1.0; in-id; CPH1803 Build/OPM1.171019.026) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 12
+Mozilla/5.0 (Linux; U; Android 9; in-id; CPH2015 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 36
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36
+0 508
+Mozilla/5.0 (Linux; U; Android 9; id-id; Redmi 7A Build/PKQ1.190319.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 12
+Mozilla/5.0 (Windows NT 6.1; rv:77.0) Gecko/20100101 Firefox/77.0
+0 911
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
