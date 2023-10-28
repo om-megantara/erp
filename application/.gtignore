@@ -1,0 +1,10 @@
+cache/
+config/
+core/
+helpers/
+hooks/
+language/
+PHPExcel/
+vendor/
+logs/
+third_party/
